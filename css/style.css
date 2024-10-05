@@ -19,7 +19,6 @@ a {
   font-size: 18px;
   line-height: 1.17;
   letter-spacing: 0.03em;
-  text-transform: uppercase;
   color: #4d5ae5;
 }
 .logo span {
@@ -59,6 +58,9 @@ a {
 /* -----------------/HEADER-------------- */
 
 /* -----------------MAIN----------- */
+.solution {
+  background-color: #2e2f42;
+}
 .solution-title {
   font-weight: 700;
   font-size: 56px;
@@ -66,7 +68,6 @@ a {
   letter-spacing: 0.02em;
   text-align: center;
   color: #fff;
-  background-color: #2e2f42;
 }
 .solution-btn {
   font-family: inherit;
@@ -102,7 +103,7 @@ a {
 
 /*------------------------ OUR TEAM-------------------- */
 .team {
-  background-color: #ffffff;
+  background-color: #f4f4fd;
   text-transform: capitalize;
 }
 .team-title {
@@ -113,7 +114,7 @@ a {
   text-align: center;
   color: #2e2f42;
 }
-.team- .team-subtitles {
+.team-subtitles {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
@@ -121,6 +122,7 @@ a {
   text-align: center;
   color: #2e2f42;
 }
+
 .team-text {
   font-weight: 400;
   font-size: 16px;
@@ -178,7 +180,6 @@ a {
   font-size: 18px;
   line-height: 1.7;
   letter-spacing: 0.03em;
-  text-transform: uppercase;
   color: #f4f4fd;
 }
 .footer-text {
