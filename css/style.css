@@ -97,6 +97,9 @@ a {
 /* ----------------- */
 /*------------------------ OUR TEAM-------------------- */
 .team {
+  background-color: #f4f4fd;
+}
+.team-list {
   background-color: #ffffff;
 }
 .team-title {
@@ -148,9 +151,7 @@ a {
   letter-spacing: 0.02em;
   color: #434455;
 }
-.portfolio-img {
-  width: 360px;
-}
+
 /* ----------FOOTER-------- */
 .footer {
   background-color: #2e2f42;
